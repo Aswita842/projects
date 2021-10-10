@@ -1,3 +1,5 @@
+# this is the code for fibonacci series
+#there is a much simpler code which is in another repository
 def fibonacci(num):
     num1 = 0
     num2 = 1
